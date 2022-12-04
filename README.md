@@ -4,6 +4,7 @@
 - [Is corporate affected?](#is-corporate-affected)
 - [How long do we expect this to last?](#how-long-do-we-expect-this-to-last)
 - [Can we ship product?](#can-we-ship-product)
+- [Do the faxes work?](#do-the-faxes-work)
 
 ## Do the phones work?
 Edit 12/04/22 09:07: The phones appear to be up and working for external and internal.<br />
@@ -18,3 +19,6 @@ Unfortunately, it is impossible to tell at this time how long this will last.  O
 ## Can we ship product?
 Edit 12/4/22 09:42: Yes, the two shipping computers have been tested and are working.<br />
 ~~We intend to have the two shipping computers operational so we can ship product.  They will be able to access UPS, FedEx and Unishippers.~~
+
+## Do the faxes work?
+The main fax line appears to be working.
