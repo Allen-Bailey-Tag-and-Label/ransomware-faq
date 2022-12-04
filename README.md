@@ -31,4 +31,4 @@ Yes, corporate's servers are affected.
 The main fax line appears to be working.
 
 ## Are my files affected?
-The files on the server (Public, Users, etc.) appear to be safe and were backed up.  The files in prepress have not been inspected yet, but are backed up weekly so the worst case scenario should be a loss of one week of files.
+Some user's PCs were definitely infected causing the files to be encrypted and will be lost.  We have not inspected every machine yet to determine the extent of this.  The files on the server (Public, Users, etc.) appear to be safe and were backed up.  The files in prepress have not been inspected yet, but are backed up weekly so the worst case scenario should be a loss of one week of files.
