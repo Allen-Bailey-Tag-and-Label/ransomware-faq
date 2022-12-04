@@ -5,7 +5,8 @@
 - [How long do we expect this to last?](#how-long-do-we-expect-this-to-last)
 
 ## Do the phones work?
-At the moment the phones do not work, but John Kilcoyne and I are working on restoring these.
+Edit 12/04/22 09:07: The phones appear to be up and working for external and internal.
+~~At the moment the phones do not work, but John Kilcoyne and I are working on restoring these.~~
 
 ## Is corporate affected?
 Yes, corporate's servers are affected.
