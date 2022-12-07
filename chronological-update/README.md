@@ -1,5 +1,8 @@
 # Chronological Update
 
+## 12/07/22 05:12PM
+- The fax line ( 585-538-3063 ) is currently down.  We expect this to be resolved sometime on Thursday 12/8.
+
 ## 12/07/22 12:04PM
 - Corporate is in the process of finalizing payroll.  They will process the checks at corporate and UPS NDA the live checks to our facility.  At the moment, it looks like all checks will be live ( no direct deposits ).
 - Continue to run production
