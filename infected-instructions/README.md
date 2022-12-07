@@ -9,7 +9,7 @@ All infectect computers will need the following steps performed:
 - [ ] Restart the PC
 - [ ] Uninstall [common programs](#common-programs)
 - [ ] Download and install [common programs](#common-programs)
-- [ ] Discconnect the ethernet wire
+- [ ] Disconnect the ethernet wire
 
 ## Common Programs
 - [Adobe Reader](https://get.adobe.com/reader/)
