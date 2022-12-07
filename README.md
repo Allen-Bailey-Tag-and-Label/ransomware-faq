@@ -21,7 +21,7 @@ Yes corporate's servers were affected.  The latest update from corporate states:
 *On Friday we experienced some locked files on certain servers and desktops.  These outages required us to recover from backups for some of our systems.  Recovery from backups is currently taking place and as systems become available they will be accessible by our plants and customers.*
 
 ## How long do we expect this to last?
-Corporate has made progress on the servers in Texas.  We expect to have an update tomorrow (Monday 12/5), possibly in the morning.
+Corporate has made progress on the servers in Texas.  At the moment JDE is operational at corporate, and they are working on restoring email and AES.
 
 ## Can we ship product?
 Yes we can ship product out of both buildings.  We currently have access to ship via UPS worldship and Unishippers but do not have JDE integration.
