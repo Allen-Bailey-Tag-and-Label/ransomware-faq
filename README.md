@@ -13,29 +13,17 @@
 - [Will payroll process on time?](#will-payroll-process-on-time)
 
 ## Do the phones work?
-12/04/22 09:07AM: The phones appear to be up and working for external and internal.
-
-~~At the moment the phones do not work, but John Kilcoyne and I are working on restoring these.~~
+The phones appear to be up and working for external and internal.
 
 ## Is corporate affected?
-12/06/22 08:44PM: Yes corporate's servers were affected.  The latest update from corporate states:<br />
+Yes corporate's servers were affected.  The latest update from corporate states:<br />
 *On Friday we experienced some locked files on certain servers and desktops.  These outages required us to recover from backups for some of our systems.  Recovery from backups is currently taking place and as systems become available they will be accessible by our plants and customers.*
 
-~~Yes, corporate's servers are affected.~~
-
 ## How long do we expect this to last?
-12/04/22 04:35PM: Corporate has made progress on the servers in Texas.  We expect to have an update tomorrow (Monday 12/5), possibly in the morning.
-
-~~Unfortunately, it is impossible to tell at this time how long this will last.  Our best guess is this will not be fixed by the week of 12/4 - 12/10 and could last as long as a month.~~
+Corporate has made progress on the servers in Texas.  We expect to have an update tomorrow (Monday 12/5), possibly in the morning.
 
 ## Can we ship product?
-12/06/22 08:44PM: Yes we can ship product out of both buildings.  We currently have access to ship via UPS worldship and Unishippers but do not have JDE integration.
-
-~~12/04/22 04:31PM: After talking with corporate, we cannot implement our fix to get the shipping computers up and running.  Until you hear differently from John or I, we won't be able to ship.~~
-
-~~12/04/22 09:42AM: Yes, the two shipping computers have been tested and are working.~~
-
-~~We intend to have the two shipping computers operational so we can ship product.  They will be able to access UPS, FedEx and Unishippers.~~
+Yes we can ship product out of both buildings.  We currently have access to ship via UPS worldship and Unishippers but do not have JDE integration.
 
 ## Do the faxes work?
 The main fax line appears to be working.
