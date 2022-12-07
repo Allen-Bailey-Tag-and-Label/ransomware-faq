@@ -2,14 +2,13 @@
 
 All infectect computers will need the following steps performed:
 - [x] Disconnect the ethernet wire
-- [ ] Navigate to `C:\Windows` and delete `auto.bat` & `ebfdmn01.dll`
 - [ ] Connect the ethernet wire
-- [ ] Update Symantec
 - [ ] Reset the user's windows password
+- [ ] Navigate to `C:\Windows` and delete `auto.bat` & `ebfdmn01.dll`
 - [ ] Restart the PC
+- [ ] Update Symantec
 - [ ] Uninstall [common programs](#common-programs)
 - [ ] Download and install [common programs](#common-programs)
-- [ ] Disconnect the ethernet wire
 
 ## Common Programs
 - [Adobe Reader](https://get.adobe.com/reader/)
