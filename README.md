@@ -7,6 +7,7 @@
 - [Do the faxes work?](#do-the-faxes-work)
 - [Are my files affected?](#are-my-files-affected)
 - [What is the state of email?](#what-is-the-state-of-email)
+- [What should I do if my computer is infected?](#what-should-i-do-if-my-computer-is-infected)
 
 ## Do the phones work?
 12/04/22 09:07AM: The phones appear to be up and working for external and internal.
@@ -42,3 +43,6 @@ Some user's PCs were definitely infected causing the files to be encrypted and w
 ## What is the state of email?
 At the moment we do not have access to email.  Corporate's latest update states:<br />
 *The Ennis email system has not been compromised and customers can feel confident in the emails that we send them.*
+
+## What should I do if my computer is infected?
+At the moment, the computer should stay disconnected from the internet.  John or myself will perform the fix once we receive direction from corporate.  The instructions for the fix will reside at [instructions](/infected-instructions/README.md).
