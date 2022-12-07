@@ -1,5 +1,7 @@
 # Ransomware FAQ
 
+### [*** Chronoligical update ***](/chronological-update/README.md)
+
 - [Do the phones work?](#do-the-phones-work)
 - [Is corporate affected?](#is-corporate-affected)
 - [How long do we expect this to last?](#how-long-do-we-expect-this-to-last)
@@ -8,6 +10,7 @@
 - [Are my files affected?](#are-my-files-affected)
 - [What is the state of email?](#what-is-the-state-of-email)
 - [What should I do if my computer is infected?](#what-should-i-do-if-my-computer-is-infected)
+- [Will payroll process on time?](#will-payroll-process-on-time)
 
 ## Do the phones work?
 12/04/22 09:07AM: The phones appear to be up and working for external and internal.
@@ -46,3 +49,6 @@ At the moment we do not have access to email.  Corporate's latest update states:
 
 ## What should I do if my computer is infected?
 At the moment, the computer should stay disconnected from the internet.  John or myself will perform the fix once we receive direction from corporate.  The instructions for the fix will reside at [instructions](/infected-instructions/README.md).
+
+## Will payroll process on time?
+Corporate has assured me they are working on payroll and expect it to go out accordingly.  At the moment it looks like the checks will be cut at corporate and NDA to the facilities.  All checks may be live as oppossed to direct deposits, but I will update this when I get clarification.
