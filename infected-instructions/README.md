@@ -1,6 +1,6 @@
 # Infected Instructions
 
-All infectect computers will need the following steps performed:
+All infecteted computers will need the following steps performed:
 1. Connect the ethernet wire
 2. Reset the user's windows password
 3. Navigate to `C:\Windows` and delete files:
