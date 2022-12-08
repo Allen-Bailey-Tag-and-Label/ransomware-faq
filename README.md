@@ -4,7 +4,7 @@
 |-------------|------------|
 | AES         |     ❌     |
 | Email       |     ❌     |
-| Fax         |     ❌     |
+| Fax         |     ✔️     |
 | JDE         |     ❌     |
 | Phones      |     ✔️     |
 
@@ -42,7 +42,7 @@ Corporate has made progress on the servers in Texas.  At the moment JDE is opera
 Yes we can ship product out of both buildings.  We currently have access to ship via UPS worldship and Unishippers but do not have JDE integration.
 
 ## Do the faxes work?
-The fax line ( 585-538-3063 ) is currently down. We expect this to be resolved sometime on Thursday 12/8.
+The fax line ( 585-538-3063 ) is currently work.
 
 ## Are my files affected?
 Some user's PCs were definitely infected causing the files to be encrypted and will be lost.  We have not inspected every machine yet to determine the extent of this.  The files on the server (Public, Users, etc.) appear to be safe and were backed up.  The files in prepress are also safe and not lost or ecrypted.
