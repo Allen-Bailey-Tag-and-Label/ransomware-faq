@@ -5,7 +5,7 @@
 - Ennis has emailed all customer emails on file with the response.  In the email, they have provided:
   -  A temporary email ( [abtl@ennisonline.com](mailto:abtl@ennisonline.com) )
   -  A temporary file upload tool ( [https://ennisinc478.sharefile.com/r-r9426308bac564de1994d298fe4df1695](https://ennisinc478.sharefile.com/r-r9426308bac564de1994d298fe4df1695) ).
-- SOP for the temporary email can be viewed [here](../temporary-email/README.md).
+- SOP for the temporary email can be viewed [here](../temp-email/README.md).
 
 ## 12/07/22 05:12PM
 - The fax line ( 585-538-3063 ) is currently down.  We expect this to be resolved sometime on Thursday 12/8.
