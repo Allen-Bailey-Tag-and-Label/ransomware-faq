@@ -9,7 +9,7 @@
 ### [*** Chronoligical update ***](/chronological-update/README.md)
 ### [*** Ennis' Response ***](/ennis-response/README.md)
 ### [*** Infected computer instructions ***](/infected-instructions/README.md)
-### [*** Temp Email Instructions ***](/temp-email-instructions/README.md)
+### [*** Temp Email Information ***](/temp-email/README.md)
 
 - [Do the phones work?](#do-the-phones-work)
 - [Is corporate affected?](#is-corporate-affected)
