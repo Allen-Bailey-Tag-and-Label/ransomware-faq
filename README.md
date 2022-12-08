@@ -2,9 +2,11 @@
 
 | **Service** | **Status** |
 |-------------|------------|
-| JDE         | Down       |
-| AES         | Down       |
-| Email       | Down       |
+| AES         |     ❌     |
+| Email       |     ❌     |
+| Fax         |     ❌     |
+| JDE         |     ❌     |
+| Phones      |     ✔️     |
 
 ### [*** Chronoligical update ***](/chronological-update/README.md)
 ### [*** Ennis' Response ***](/ennis-response/README.md)
