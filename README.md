@@ -25,8 +25,10 @@
 The phones are up and working for external and internal.
 
 ## Is corporate affected?
-Yes corporate's servers were affected.  The latest update from corporate states:<br />
-*On Friday we experienced some locked files on certain servers and desktops.  These outages required us to recover from backups for some of our systems.  Recovery from backups is currently taking place and as systems become available they will be accessible by our plants and customers.*<br />
+Yes corporate's servers were affected.  The latest update from corporate states:
+
+*On Friday we experienced some locked files on certain servers and desktops.  These outages required us to recover from backups for some of our systems.  Recovery from backups is currently taking place and as systems become available they will be accessible by our plants and customers.*
+
 With that being said, there is no evidence any files were taken or lost from the corporate servers.
 
 ## How long do we expect this to last?
@@ -42,9 +44,11 @@ The fax line ( 585-538-3063 ) is currently down. We expect this to be resolved s
 Some user's PCs were definitely infected causing the files to be encrypted and will be lost.  We have not inspected every machine yet to determine the extent of this.  The files on the server (Public, Users, etc.) appear to be safe and were backed up.  The files in prepress are also safe and not lost or ecrypted.
 
 ## What is the state of email?
-At the moment we do not have access to email.  Corporate's latest update states:<br />
-*The Ennis email system has not been compromised and customers can feel confident in the emails that we send them.*<br />
-We are awaiting an a temporary email address we can provide to our customers until our normal email is restored.
+At the moment we do not have access to our regular email.  Corporate's latest update states:
+
+*The Ennis email system has not been compromised and customers can feel confident in the emails that we send them.*
+
+We have been provided with a temporary email address ( [abtl@ennisonline.com](mailto:abtl@ennisonline.com) ).  Our customers have also been sent an email with Ennis' response and this email to notify them.
 
 ## What should I do if my computer is infected?
 At the moment, the computer should stay disconnected from the internet.  John or myself will perform the fix once we receive direction from corporate.  The instructions for the fix will reside at [instructions](/infected-instructions/README.md).
