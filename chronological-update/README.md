@@ -1,5 +1,8 @@
 # Chronological Update
 
+## 12/08/22 12:09PM
+- The fax line ( 585-538-3063 ) is currently work.
+
 ## 12/08/22 08:26AM
 - Ennis has issued a response which can view viewed [here](../ennis-response/README.md).
 - Ennis has emailed all customer emails on file with the response.  In the email, they have provided:
