@@ -10,6 +10,6 @@ Since we will all have this, we'll need to triage the emails as they come in.  T
 2. If so, move the email out of the inbox, into a folder in your archives / local PST.  This will remove it from the server, and prevent multiple people from responding.
 3. You can use the following copy for a generic response and modify as needed:
 
-*I apologize for the delay in getting back to you with your request.  As you read, we have have experienced network difficulties and unable to access emails.  Until our services are up, we will not be able to provide you with updated pricing.*
+*I apologize for the delay in getting back to you with your request.  As you read, we have experienced network difficulties and are unable to access emails.  Until our services are up, we will not be able to provide you with updated pricing.*
   
 *With that being said, as soon as we are back up and operational, we will expedite your request below and get back with you as soon as possible.  Thank you for your understanding and if you need anything else, feel free to give me a call.*
