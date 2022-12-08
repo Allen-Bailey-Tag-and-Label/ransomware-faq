@@ -1,5 +1,11 @@
 # Ransomware FAQ
 
+| **Service** | **Status** |
+|-------------|------------|
+| JDE         | Down       |
+| AES         | Down       |
+| Email       | Down       |
+
 ### [*** Chronoligical update ***](/chronological-update/README.md)
 ### [*** Infected computer instructions ***](/infected-instructions/README.md)
 
