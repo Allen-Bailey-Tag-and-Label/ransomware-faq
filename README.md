@@ -33,6 +33,8 @@ Yes corporate's servers were affected.  The latest update from corporate states:
 
 With that being said, there is no evidence any files were taken or lost from the corporate servers.
 
+See Ennis' response sent to our customers [here](/ennis-response/README.md).
+
 ## How long do we expect this to last?
 Corporate has made progress on the servers in Texas.  At the moment JDE is operational at corporate, and they are working on restoring email and AES.
 
