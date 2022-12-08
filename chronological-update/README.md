@@ -1,5 +1,12 @@
 # Chronological Update
 
+## 12/08/22 08:26AM
+- Ennis has issued a response which can view viewed [here](../ennis-response/README.md).
+- Ennis has emailed all customer emails on file with the response.  In the email, they have provided:
+  -  A temporary email ( [abtl@ennisonline.com](mailto:abtl@ennisonline.com) )
+  -  A temporary file upload tool ( [https://ennisinc478.sharefile.com/r-r9426308bac564de1994d298fe4df1695](https://ennisinc478.sharefile.com/r-r9426308bac564de1994d298fe4df1695) ).
+- SOP for the temporary email can be viewed [here](../temporary-email/README.md).
+
 ## 12/07/22 05:12PM
 - The fax line ( 585-538-3063 ) is currently down.  We expect this to be resolved sometime on Thursday 12/8.
 
@@ -8,9 +15,9 @@
 - Continue to run production
   - Keep filling out material & routing sheets
 - Steve Osterloh ( VP of marketing ) will provide share folders we can give to customers who need to email files.  The files will be accessible by us at the plant through a web based program.  <br>
-`TODO: ADD ARTWORK FILE SHARE ADDRESS HERE`
+[https://ennisinc478.sharefile.com/r-r9426308bac564de1994d298fe4df1695](https://ennisinc478.sharefile.com/r-r9426308bac564de1994d298fe4df1695)
 - Steve Osterloh will create temporary email addresses for each plant that can be given to customers.  These will not forward our existing emails, but will be for emergencies. The email will be web based as well.<br />
-`TODO: ADD TEMPORARY EMAIL ADDRESS HERE`
+[abtl@ennisonline.com](mailto:abtl@ennisonline.com)
 - We expect emails being sent from Friday 12/2 until now to be delivered once the email server is brought back up.
 - Ennis is going to send out an email response to all of our customer's emails they have on file with a statement, and the newly created temporary email address.
 - There were at least 79 attacks nationwide from this threat.
