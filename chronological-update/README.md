@@ -1,5 +1,8 @@
 # Chronological Update
 
+## 12/09/22 06:58PM
+- JDE is backup and operational.
+
 ## 12/08/22 12:09PM
 - The fax line ( 585-538-3063 ) is currently work.
 
