@@ -8,11 +8,13 @@
 | JDE         |     ✔️     |
 | Phones      |     ✔️     |
 
-### [*** Chronoligical update ***](/chronological-update/README.md)
-### [*** Ennis' Response ***](/ennis-response/README.md)
-### [*** Infected computer instructions ***](/infected-instructions/README.md)
-### [*** Temp Email Information ***](/temp-email/README.md)
+## Main Sections
+- [Chronoligical update](/chronological-update/README.md)
+- [Ennis' Response](/ennis-response/README.md)
+- [Infected computer instructions](/infected-instructions/README.md)
+- [Temp Email Information](/temp-email/README.md)
 
+## Questions
 - [Do the phones work?](#do-the-phones-work)
 - [Is corporate affected?](#is-corporate-affected)
 - [How long do we expect this to last?](#how-long-do-we-expect-this-to-last)
