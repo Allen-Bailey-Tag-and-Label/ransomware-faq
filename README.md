@@ -11,7 +11,7 @@
 ## Main Sections
 - [Chronoligical update](/chronological-update/README.md)
 - [Ennis' Response](/ennis-response/README.md)
-- [Infected computer instructions](/infected-instructions/README.md)
+- [IT](/it)
 - [Temp Email Information](/temp-email/README.md)
 
 ## Questions
