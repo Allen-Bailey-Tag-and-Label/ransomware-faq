@@ -5,7 +5,7 @@
 | AES         |     ❌     |
 | Email       |     ❌     |
 | Fax         |     ✔️     |
-| JDE         |     ❌     |
+| JDE         |     ✔️     |
 | Phones      |     ✔️     |
 
 ### [*** Chronoligical update ***](/chronological-update/README.md)
