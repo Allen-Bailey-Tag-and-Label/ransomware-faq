@@ -12,6 +12,7 @@
 - [Chronoligical update](/chronological-update/README.md)
 - [Ennis' Response](/ennis-response/README.md)
 - [IT](/it)
+- [Questions](#questions)
 - [Temp Email Information](/temp-email/README.md)
 
 ## Questions
