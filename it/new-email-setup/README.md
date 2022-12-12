@@ -1,10 +1,10 @@
 # New Email Setup
 
 ## Overview
-[1. Backup Outlook](#1-backup-outlook)
-[2. Delete Mail Profile](#2-delete-mail-profile)
-[3. Setup Outlook](#3-setup-outlook)
-[4. Import Backedup Files](#4-import-backedup-files)
+- [1. Backup Outlook](#1-backup-outlook)
+- [2. Delete Mail Profile](#2-delete-mail-profile)
+- [3. Setup Outlook](#3-setup-outlook)
+- [4. Import Backedup Files](#4-import-backedup-files)
 
 ## 1. Backup Outlook
 1. Open Outlook
