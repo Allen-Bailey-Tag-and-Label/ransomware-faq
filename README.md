@@ -1,12 +1,12 @@
 # Ransomware FAQ
 
-| **Service** | **Status** |
-|-------------|------------|
-| AES         |     ❌     |
-| Email       |     ❌     |
-| Fax         |     ✔️     |
-| JDE         |     ✔️     |
-| Phones      |     ✔️     |
+| **Service** | **Status** | **Notes**                                                                                                                        |
+|-------------|------------|----------------------------------------------------------------------------------------------------------------------------------|
+| AES         |     ➖     | <li>Working for some users.</li><li>All quotes after 11/10/2021 missing</li><li>Some slowdowns missing so hours will be off</li> |
+| Email       |     ➖     | <li>Temporary email available</li><li>Some users have access</li>                                                                |
+| Fax         |     ✔️     | Fully working                                                                                                                    |
+| JDE         |     ✔️     | Fully working but slow to print                                                                                                  |
+| Phones      |     ✔️     | Fully working                                                                                                                    |
 
 ## Main Sections
 - [Chronoligical update](/chronological-update/README.md)
