@@ -1,0 +1,21 @@
+# Priority List - Bob
+
+- [x] Get all PCs on `abtl.com` domain set to static IP
+- [x] Setup temporary email address `abtl@ennisonline.com`
+- [x] Update PCs on `ennis.com` domain's email
+  - [x] Amy McAleavey
+  - [x] Bob McAleavey
+- [x] Reset `CSRs` password
+  - [x] AJ Kozak
+  - [x] John Formella
+  - [x] Jocelyn Georgiev
+  - [x] Kim Canute
+  - [x] Nicole Acton
+- [ ] Get `Jocelyn`'s AES fixed
+- [ ] Get with `Wayne` on fixing `abtl.com` email addresses
+- [ ] Update/Fix `CSRs` abtl.com email settings
+  - [ ] AJ Kozak
+  - [ ] John Formella
+  - [ ] Jocelyn Georgiev
+  - [ ] Kim Canute
+  - [ ] Nicole Acton
