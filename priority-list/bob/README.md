@@ -5,17 +5,41 @@
 - [x] Update PCs on `ennis.com` domain's email
   - [x] Amy McAleavey
   - [x] Bob McAleavey
-- [x] Reset `CSRs` password
-  - [x] AJ Kozak
-  - [x] John Formella
-  - [x] Jocelyn Georgiev
-  - [x] Kim Canute
-  - [x] Nicole Acton
+- [ ] Change users' `ennis.com` password
+  - [x] CSRs
+    - [x] AJ Kozak
+    - [x] John Formella
+    - [x] Jocelyn Georgiev
+    - [x] Kim Canute
+    - [x] Nicole Acton
+  - [ ] Production
+    - [ ] Bob Paduano
+    - [ ] Ken Norton
+    - [ ] Phil Carlson
+    - [ ] Ryan Coleman
+    - [ ] Scott Filio
+    - [ ] Steve Krisanda
+  - [ ] Balance
+    - [x] Amy McAleavey
+    - [ ] Diane Vonglis
+    - [ ] Kathy Williams
 - [ ] Get `Jocelyn`'s AES fixed
 - [ ] Get with `Wayne` on fixing `abtl.com` email addresses
-- [ ] Update/Fix `CSRs` abtl.com email settings
-  - [ ] AJ Kozak
-  - [ ] John Formella
-  - [ ] Jocelyn Georgiev
-  - [ ] Kim Canute
-  - [ ] Nicole Acton
+- [ ] Update/Fix users' `abtl.com` email settings
+  - [ ] CSRs
+    - [ ] AJ Kozak
+    - [ ] John Formella
+    - [ ] Jocelyn Georgiev
+    - [ ] Kim Canute
+    - [ ] Nicole Acton
+  - [ ] Production
+    - [ ] Bob Paduano
+    - [ ] Ken Norton
+    - [ ] Phil Carlson
+    - [ ] Ryan Coleman
+    - [ ] Scott Filio
+    - [ ] Steve Krisanda
+  - [ ] Balance
+    - [ ] Amy McAleavey
+    - [ ] Diane Vonglis
+    - [ ] Kathy Williams
