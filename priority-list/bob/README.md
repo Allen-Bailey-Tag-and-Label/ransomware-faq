@@ -5,41 +5,43 @@
 - [x] Update PCs on `ennis.com` domain's email
   - [x] Amy McAleavey
   - [x] Bob McAleavey
-- [ ] Change users' `ennis.com` password
+- [x] Change users' `ennis.com` password
   - [x] CSRs
     - [x] AJ Kozak
     - [x] John Formella
     - [x] Jocelyn Georgiev
     - [x] Kim Canute
     - [x] Nicole Acton
-  - [ ] Production
-    - [ ] Bob Paduano
-    - [ ] Ken Norton
-    - [ ] Phil Carlson
-    - [ ] Ryan Coleman
-    - [ ] Scott Filio
-    - [ ] Steve Krisanda
-  - [ ] Balance
+  - [x] Production
+    - [x] Bob Paduano
+    - [x] Josh Litteer
+    - [x] Ken Norton
+    - [x] Phil Carlson
+    - [x] Ryan Coleman
+    - [x] Scott Filio
+    - [x] Steve Krisanda
+  - [x] Balance
     - [x] Amy McAleavey
-    - [ ] Diane Vonglis
-    - [ ] Kathy Williams
+    - [x] Diane Vonglis
+    - [x] Kathy Williams
 - [ ] Get `Jocelyn`'s AES fixed
-- [ ] Get with `Wayne` on fixing `abtl.com` email addresses
+- [x] Get with `Wayne` on fixing `abtl.com` email addresses
 - [ ] Update/Fix users' `abtl.com` email settings
   - [ ] CSRs
     - [ ] AJ Kozak
-    - [ ] John Formella
-    - [ ] Jocelyn Georgiev
-    - [ ] Kim Canute
-    - [ ] Nicole Acton
+    - [x] John Formella
+    - [x] Jocelyn Georgiev
+    - [x] Kim Canute
+    - [x] Nicole Acton
   - [ ] Production
     - [ ] Bob Paduano
-    - [ ] Ken Norton
+    - [ ] Josh Litteer
+    - [x] Ken Norton
     - [ ] Phil Carlson
     - [ ] Ryan Coleman
-    - [ ] Scott Filio
-    - [ ] Steve Krisanda
-  - [ ] Balance
-    - [ ] Amy McAleavey
-    - [ ] Diane Vonglis
-    - [ ] Kathy Williams
+    - [x] Scott Filio
+    - [x] Steve Krisanda
+  - [x] Balance
+    - [x] Amy McAleavey
+    - [x] Diane Vonglis
+    - [x] Kathy Williams

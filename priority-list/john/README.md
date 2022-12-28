@@ -4,14 +4,14 @@
 - [x] Clone `i3 base image`
 - [x] Reinstall windows with new cloned images on infected PCs
 - [x] Get `Steve Krisanda`'s PC on the domain controller
-- [ ] Get `Command Center`'s PC up and running
-  - [ ] Add `Steve Krisanda` to the active windows users
-  - [ ] Verify we can print to the `Zebra` printer
-- [ ] Get `AJ Kozak`'s PC up and running
-- [ ] Get `John Formella`'s PC up and running
-- [ ] Get `Scott Filio`'s PC up and running
-- [ ] Get `Rewind`'s PC up and running
-  - [ ] Verify we can print to the `Zebra` printer
+- [x] Get `Command Center`'s PC up and running
+  - [x] Add `Steve Krisanda` to the active windows users
+  - [x] Verify we can print to the `Zebra` printer
+- [x] Get `AJ Kozak`'s PC up and running
+- [x] Get `John Formella`'s PC up and running
+- [x] Get `Scott Filio`'s PC up and running
+- [x] Get `Rewind`'s PC up and running
+  - [x] Verify we can print to the `Zebra` printer
 - [ ] Get `Prepress` PCs up and running
   - [ ] Rip Computer
   - [ ] Multi-Plate Computer
